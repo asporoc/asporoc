@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asporoc
-- 👀 I’m interested in Cloud Computing, Cyber Security and DevOps
-- 🌱 I’m currently learning Java and Python
+- 👀 I’m interested in gaining insight out of Data and Managing Systems and Databases.
+- 🌱 I’m currently employed as a Application Manager.
 
 <!---
 asporoc/asporoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
