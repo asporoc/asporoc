@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Billy
--  I’m interested in gaining insight out of Data and Managing Systems and Databases.
--  I Prefer Working with Python, SQL and Bash.
+-  I’m interested in Building things, gaining insight out of Data, Managing Systems and Databases.
+-  I Prefer Working with Python, Java, SQL and Bash.
 -  I’m currently employed as a Application Manager.
 
 <!---
